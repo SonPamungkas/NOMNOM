@@ -26,6 +26,32 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "aryx_rah72_knockout_1.0.2.nobp",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/releases/download/1.0.2/aryx_rah72_knockout_1.0.2.nobp",
+      "hash": "sha256:071d44c987899e656bac525e5818eaeceb08fa43182426d231fb922318a815a3",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
+      "fileName": "aryx_rah72_knockout_1.0.1.nobp",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/releases/download/1.0.1/aryx_rah72_knockout_1.0.1.nobp",
+      "hash": "sha256:fcefb39e11ed8dd15180c5683379bfd85369bcb9cd88653d8947eec68bb54e1e",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    },
+    {
       "fileName": "aryx_rah72_knockout_1.0.0.nobp",
       "version": "1.0.0",
       "category": "release",
@@ -39,5 +65,5 @@
       }
     }
   ],
-  "downloadCount": 0
+  "downloadCount": 2783
 }
