@@ -1,0 +1,43 @@
+{
+  "id": "aryx.rah72",
+  "displayName": "Aryx-RAH-72-Knockout",
+  "description": "Adds an agile rank 0 scout and attack helicopter capable of long range reconnaissance able to triangulate ground radars, strafe tank columns and generally be the low rank eye in the sky.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "expeditionary"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/blob/main/README.md"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/3atkUZV3b"
+    }
+  ],
+  "authors": [
+    "Aryx"
+  ],
+  "githubOwner": "Aryx3D",
+  "githubRepoName": "Aryx-RAH-72-Knockout",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "aryx_rah72_knockout_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/releases/download/1.0.0/aryx_rah72_knockout_1.0.0.nobp",
+      "hash": "sha256:226c01117f9bd5d9699065188978327840f0f78e5cbc59742904c534029b8e85",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
