@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 2236
+    "downloadCount": 2238
   },
   {
     "id": "ActiveDecoy",
@@ -395,7 +395,7 @@
         }
       }
     ],
-    "downloadCount": 28900
+    "downloadCount": 28908
   },
   {
     "id": "aryx.mc260",
@@ -568,7 +568,7 @@
         }
       }
     ],
-    "downloadCount": 25643
+    "downloadCount": 25649
   },
   {
     "id": "aryx.mig15",
@@ -745,7 +745,7 @@
         }
       }
     ],
-    "downloadCount": 7684
+    "downloadCount": 7710
   },
   {
     "id": "AtomicFramework",
@@ -928,7 +928,7 @@
         }
       }
     ],
-    "downloadCount": 14977
+    "downloadCount": 14981
   },
   {
     "id": "blueprinter.ternion",
@@ -982,7 +982,7 @@
         }
       }
     ],
-    "downloadCount": 14317
+    "downloadCount": 14328
   },
   {
     "id": "bote",
@@ -1108,7 +1108,7 @@
         }
       }
     ],
-    "downloadCount": 17019
+    "downloadCount": 17024
   },
   {
     "id": "CameraPresets",
@@ -1576,7 +1576,7 @@
         ]
       }
     ],
-    "downloadCount": 1750
+    "downloadCount": 1751
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1649,7 +1649,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 33798
+    "downloadCount": 33805
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1848,7 +1848,7 @@
         ]
       }
     ],
-    "downloadCount": 1689
+    "downloadCount": 1690
   },
   {
     "id": "FrontlineMap",
@@ -2331,7 +2331,7 @@
         }
       }
     ],
-    "downloadCount": 16498
+    "downloadCount": 16502
   },
   {
     "id": "klawshout_voice",
@@ -2398,7 +2398,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 178
   },
   {
     "id": "KR-EW.67",
@@ -2431,7 +2431,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2767
+    "downloadCount": 2768
   },
   {
     "id": "LaserRocketFix",
@@ -4817,7 +4817,7 @@
         ]
       }
     ],
-    "downloadCount": 12389
+    "downloadCount": 12393
   },
   {
     "id": "no-autopilot-mod",
@@ -5147,7 +5147,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 13606
+    "downloadCount": 13610
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -5541,7 +5541,7 @@
         ]
       }
     ],
-    "downloadCount": 2025
+    "downloadCount": 2026
   },
   {
     "id": "NOLiveryPlus",
@@ -5879,7 +5879,7 @@
         ]
       }
     ],
-    "downloadCount": 6523
+    "downloadCount": 6524
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -6265,7 +6265,7 @@
         ]
       }
     ],
-    "downloadCount": 13368
+    "downloadCount": 13373
   },
   {
     "id": "RepairProgress",
@@ -6366,7 +6366,7 @@
         ]
       }
     ],
-    "downloadCount": 354
+    "downloadCount": 355
   },
   {
     "id": "RuntimeUnityEditor",
@@ -6399,7 +6399,40 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 122443
+    "downloadCount": 122444
+  },
+  {
+    "id": "shoshanas.tvmissilehud",
+    "displayName": "Shoshanas TVMissile Hud",
+    "description": "This is the TV Missile Hud where it shows the missiles POV and Missile trails.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-shoshanas-tvmissilehud",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "shoshanas.tvmissilehud_v1.6.6.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-shoshanas-tvmissilehud/releases/download/v1.6.6/shoshanas.tvmissilehud_v1.6.6.zip",
+        "hash": "sha256:389cd927041fcde9215571b50f89402d9bc9f82f2d54c7e2dcedf730e127c288",
+        "gameVersion": "0.33",
+        "version": "1.6.6",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
   },
   {
     "id": "skyeye_voice",
@@ -6492,7 +6525,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 750
+    "downloadCount": 752
   },
   {
     "id": "SplitThrottle",
@@ -6566,7 +6599,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 3425
+    "downloadCount": 3426
   },
   {
     "id": "TargetCamControl",
@@ -6604,7 +6637,7 @@
         ]
       }
     ],
-    "downloadCount": 230
+    "downloadCount": 231
   },
   {
     "id": "TargetEstimator",
@@ -6708,7 +6741,7 @@
         ]
       }
     ],
-    "downloadCount": 819
+    "downloadCount": 821
   },
   {
     "id": "ThirdFaction",
@@ -6986,7 +7019,7 @@
         ]
       }
     ],
-    "downloadCount": 1580
+    "downloadCount": 1581
   },
   {
     "id": "uuvr",
@@ -7049,7 +7082,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 3727
+    "downloadCount": 3728
   },
   {
     "id": "WeatherController",
@@ -7080,7 +7113,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 1616
+    "downloadCount": 1617
   },
   {
     "id": "WSOYappinator",
@@ -7113,7 +7146,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6929
+    "downloadCount": 6934
   },
   {
     "id": "YawOnMouse",
