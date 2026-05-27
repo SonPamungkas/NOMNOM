@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "IbisPowerFix-1.8.8.zip",
+      "version": "1.8.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/IbisPowerFix/releases/download/v1.8.8/IbisPowerFix-1.8.8.zip",
+      "hash": "sha256:4b4fa751505eb05a280b26f9cacd1b13892eeef87f537dc3f024585536fb6aab"
+    },
+    {
       "fileName": "IbisPowerFix-1.8.7.zip",
       "version": "1.8.7",
       "category": "release",
@@ -56,5 +65,5 @@
       "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
     }
   ],
-  "downloadCount": 189
+  "downloadCount": 195
 }
