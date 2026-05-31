@@ -1,7 +1,7 @@
 {
   "id": "NOControllerVibration",
   "displayName": "NOControllerVibration",
-  "description": "A mod and script to allow dynamic vibration feedback in Nuclear Option.",
+  "description": "A mod to allow dynamic vibration feedback in Nuclear Option for any controller.",
   "tags": [
     "mod",
     "ffb"
