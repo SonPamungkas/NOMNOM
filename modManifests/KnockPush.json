@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "KnockPush-1.9.57.zip",
+      "version": "1.9.57",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.9.57/KnockPush-1.9.57.zip",
+      "hash": "sha256:728c942ffcd3cd3015dd1c8a7f2c0d5d52099d675e6f3839cd762e2e75bfc54c"
+    },
+    {
       "fileName": "KnockPush-1.9.8.zip",
       "version": "1.9.8",
       "category": "release",
@@ -65,5 +74,5 @@
       "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
     }
   ],
-  "downloadCount": 951
+  "downloadCount": 981
 }

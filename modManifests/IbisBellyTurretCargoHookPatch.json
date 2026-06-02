@@ -21,6 +21,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "IbisBellyTurretCargoHookPatch-0.3.6.zip",
+      "version": "0.3.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.3.6/IbisBellyTurretCargoHookPatch-0.3.6.zip",
+      "hash": "sha256:a7ac321c83825eade2e4b0e26a0b3aee702cff6b7a54f730d44743dd46cfd37e",
+      "dependencies": [
+        {
+          "id": "QoL",
+          "version": "1.7.1.0"
+        }
+      ]
+    },
+    {
       "fileName": "IbisBellyTurretCargoHookPatch-0.3.5.zip",
       "version": "0.3.5",
       "category": "release",
@@ -66,5 +81,5 @@
       ]
     }
   ],
-  "downloadCount": 566
+  "downloadCount": 575
 }
