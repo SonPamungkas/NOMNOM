@@ -21,6 +21,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "qol_1.1.8.0.dll",
+      "version": "1.8.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.8.0.0/qol_1.1.8.0.dll",
+      "hash": "sha256:a4f108503def2b7066e00809dbb9081a9411f504e22a6538ac64c028ba9fa73c",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "qol_1.1.7.1.dll",
       "version": "1.7.1.0",
       "category": "release",
@@ -81,5 +96,5 @@
       ]
     }
   ],
-  "downloadCount": 15784
+  "downloadCount": 15815
 }

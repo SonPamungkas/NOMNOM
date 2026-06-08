@@ -32,10 +32,10 @@
       "dependencies": [
         {
           "id": "QoL",
-          "version": "1.7.1.0"
+          "version": "1.8.0.0"
         }
       ]
     }
   ],
-  "downloadCount": 426
+  "downloadCount": 427
 }
