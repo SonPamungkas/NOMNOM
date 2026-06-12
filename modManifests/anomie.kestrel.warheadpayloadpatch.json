@@ -29,11 +29,11 @@
       "dependencies": [
         {
           "id": "blueprinter.kestrel",
-          "version": "2.1.0"
+          "version": "2.2.0"
         },
         {
           "id": "com.nikkorap.blueprinter",
-          "version": "1.8.20"
+          "version": "1.8.21"
         },
         {
           "id": "QoL",
@@ -283,5 +283,5 @@
       ]
     }
   ],
-  "downloadCount": 298
+  "downloadCount": 323
 }
