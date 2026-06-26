@@ -2,14 +2,20 @@
   "id": "AirSpawnMod",
   "displayName": "Air Spawn",
   "description": "Spawns your aircraft in the air at a configurable altitude and airspeed instead of on the hangar floor. Supports per-aircraft presets and speed unit selection (m/s, km/h, mph, kt).",
-  "tags": ["mod", "QoL", "testing"],
+  "tags": [
+    "mod",
+    "QoL",
+    "testing"
+  ],
   "urls": [
     {
       "name": "info",
       "url": "https://github.com/mosdef31/NOAS"
     }
   ],
-  "authors": ["mosdef31"],
+  "authors": [
+    "mosdef31"
+  ],
   "githubOwner": "mosdef31",
   "githubRepoName": "NOAS",
   "autoUpdateArtifacts": "True",
@@ -23,5 +29,6 @@
       "category": "release",
       "hash": "bbcffdcba57d78f653a3f979ccf6c5280fc57501e8d314d032f7ea1a5ab50e9f"
     }
-  ]
+  ],
+  "downloadCount": 0
 }
