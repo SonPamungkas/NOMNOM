@@ -22,6 +22,21 @@
   "artifacts": [
     {
       "fileName": "NOCounterMeasureKeybinds.dll",
+      "version": "0.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.4",
+      "downloadUrl": "https://github.com/SwatDoge/NOCounterMeasureKeybinds/releases/download/0.0.3/NOCounterMeasureKeybinds.dll",
+      "hash": "sha256:316d206d75495b905f891f0228d2c53c21b3f21ed2e64c632551c007853155a1",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "NOCounterMeasureKeybinds.dll",
       "version": "0.0.2",
       "category": "release",
       "type": "plugin",
@@ -51,5 +66,5 @@
       ]
     }
   ],
-  "downloadCount": 42
+  "downloadCount": 45
 }
