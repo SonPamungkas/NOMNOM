@@ -19,6 +19,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Anomie.NuclearOption.DevelopmentKit.Bridge_v0.1.4.zip",
+      "version": "0.1.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-nuclearoption-developmentkit-bridge/releases/download/v0.1.4/Anomie.NuclearOption.DevelopmentKit.Bridge_v0.1.4.zip",
+      "hash": "sha256:81f8053fdb55bd3add6f924cf62eea29e610ad0e1d136edeb8c2ae43ad1152c6"
+    },
+    {
       "type": "plugin",
       "fileName": "Anomie.NuclearOption.DevelopmentKit.Bridge_v0.1.3.zip",
       "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-nuclearoption-developmentkit-bridge/releases/download/v0.1.3/Anomie.NuclearOption.DevelopmentKit.Bridge_v0.1.3.zip",
@@ -28,5 +37,5 @@
       "category": "Pre-Release"
     }
   ],
-  "downloadCount": 75
+  "downloadCount": 76
 }
