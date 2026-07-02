@@ -26,6 +26,15 @@
   ],
   "artifacts": [
     {
+      "fileName": "Ornithopter-1.6.6.zip",
+      "version": "1.6.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/Ornithopter/releases/download/v1.6.6/Ornithopter-1.6.6.zip",
+      "hash": "sha256:ca595d0e91106638aed0a187c6f2d2c289d4e6bae50c935e2eabb86010a3eb2f"
+    },
+    {
       "fileName": "Ornithopter-1.6.4.zip",
       "version": "1.6.4",
       "category": "release",
@@ -89,5 +98,5 @@
       "hash": "sha256:9829adb5135f08d0b129453cb685628a7def130371f8f9770f5d3baf28feb66e"
     }
   ],
-  "downloadCount": 3630
+  "downloadCount": 3656
 }
