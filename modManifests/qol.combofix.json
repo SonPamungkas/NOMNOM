@@ -20,6 +20,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "qol.combofix_v1.1.1.zip",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-qol-combofix/releases/download/v1.1.1/qol.combofix_v1.1.1.zip",
+      "hash": "sha256:9d7af1d7571f567a72ee06e656955e8d559b5a1ae22dd569d68e5235dccbadc0",
+      "dependencies": [
+        {
+          "id": "QoL",
+          "version": "1.8.1.0"
+        }
+      ]
+    },
+    {
       "fileName": "qol.combofix_v1.1.0.zip",
       "version": "1.1.0",
       "category": "release",
@@ -65,5 +80,5 @@
       ]
     }
   ],
-  "downloadCount": 2402
+  "downloadCount": 2434
 }
