@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "Pauel3312.PauelsRandomFixes.dll",
+      "version": "0.33.4.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.3/Pauel3312.PauelsRandomFixes.dll",
+      "hash": "sha256:51dda76cf8b268256a4ca660f2abc8b2e74b6ca4f3a18399da3eee2bc09c47e2"
+    },
+    {
+      "fileName": "Pauel3312.PauelsRandomFixes.dll",
       "version": "0.33.4.2",
       "category": "release",
       "type": "plugin",
@@ -47,5 +56,5 @@
       "hash": "sha256:141f8733266f619096b85699271f673c1afc0404d30912d3c25817f2c9b22756"
     }
   ],
-  "downloadCount": 121
+  "downloadCount": 123
 }
